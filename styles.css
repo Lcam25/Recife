@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #E6E6FA;
+    padding: 10px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 100%;
+}
+
+nav {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+.historia {
+    width: 270px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.sobre {
+    padding: 3em 0;
+}
+
+.lista-sobre {
+    width: 640px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.rodape {
+    width: 100%;
+}
